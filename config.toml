@@ -1,5 +1,6 @@
 title = "David Herbert"
-baseURL = "https://david-dmh.github.io/David_Herbert/"
+baseURL = "https://david-dmh.github.io"
+# baseURL = "https://david-dmh.github.io/David_Herbert/"
 languageCode = "en-us"
 theme = "ananke"
 # themesDir = "../.."
