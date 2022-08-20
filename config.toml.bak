@@ -17,7 +17,7 @@ canonifyURLs = true
   filename = "sitemap.xml"
 
 [params]
-  favicon = "images/favicon1.ico"
+  favicon = "images/favicon0.ico"
   # Favicon attribution: https://www.flaticon.com/free-icons/data-processing - Data processing icons created by Eucalyp - Flaticon
   site_logo = ""
   description = ""
