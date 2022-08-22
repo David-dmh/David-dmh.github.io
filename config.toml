@@ -3,6 +3,7 @@ baseURL = "https://david-dmh.github.io"
 languageCode = "en-us"
 theme = "ananke"
 # themesDir = "../.."
+publishDir = "public"
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
